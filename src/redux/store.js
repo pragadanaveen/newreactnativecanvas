@@ -1,3 +1,4 @@
+// src/redux/store.js
 import { configureStore } from '@reduxjs/toolkit';
 import builderReducer from './builderSlice';
 
